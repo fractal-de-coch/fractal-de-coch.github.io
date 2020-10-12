@@ -1,0 +1,62 @@
+#site{
+    /* ancho de pantalla*/
+    width: 800px;
+    /*altura de pagina*/
+    height: 1300px;
+    /*posicion que la pagina ocupara en pantalla*/
+    /*top: posicionamiento superior*/
+    margin-top: 0;
+    /*left: posicionamiento a la izquierda*/
+    margin-left: auto;
+    /*bottom: posicionamiento inferior*/
+    margin-bottom: 0;
+    /*right: posicionamiento a la derecha*/
+    margin-right: auto;
+    /*color del fondo de la pagina*/
+    background-color:darkgray;
+}
+    
+#header{
+    width: 800px;
+    height: 300px;
+    background-color: cadetblue;
+}
+
+#cuerpo{
+    width: 800px;
+    height: 630px;
+    background-color: lightgrey;
+
+}
+#tabla{
+    width: 800px;
+    height: 300px;
+    text-align:center;
+    background-color: lightgrey;
+    
+}
+
+#footer{
+    width: 800px;
+    height: 80px;
+    background-color: cadetblue;
+}
+
+
+
+#foto{
+    width: 250px;
+    height: 300px;
+    float: left
+    
+}
+
+#nombre{
+    width: 450px;
+    height: 300px;
+    float: left
+    
+}
+
+
+
